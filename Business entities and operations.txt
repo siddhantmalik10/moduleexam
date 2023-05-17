@@ -1,0 +1,27 @@
+Business entities
+
+1) Candidate : 
+	Name
+	Email
+	Mobile no
+	qualification
+
+2) Job offering :
+	Company name 
+	Job description 
+	Job title
+	Required qualification
+
+3) Company :
+	Company name
+	location
+	email
+	About us
+
+4) Company login :
+	Email
+	Password
+
+5) Candidate login :
+	Email 
+	Password

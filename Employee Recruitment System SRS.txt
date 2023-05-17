@@ -1,0 +1,16 @@
+Document : Software Requirement Specification
+
+Title : Employee Recruitment System
+
+Objective : Employee Recruitment System is a web application in which will be developed to optimize the recruitment process for an organization.
+ 	    Jobseekers can register themselves online,view organization requirements and apply for the job. And likewise companies can post job
+	    offerings on the website.
+
+Functional requirements : Candidate (Jobseeker) can make an account on the job potal (sign up for Candidates).
+			  Anonymous user can view job offerings listed on the website.
+			  Registed users can apply for the job offerings matching the criteria.
+			  Companies can create an account on the job portal ( sign up for companies).
+			  Registered companies can request to list job offerings provided by their company.
+			  Administrator of the website can approve or deny the rquests made by a company.
+			  Registered companies can see the candidate details who applied for a job at their company.
+			  Anonymous user can filter jobs by providing matching criteria according to their requirements. 	 
